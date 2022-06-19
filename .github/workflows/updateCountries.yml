@@ -29,6 +29,10 @@ jobs:
               echo c >> countries.txt
             done
             
+      - uses: EndBug/add-and-commit@v9 
+        with:
+          add: 'data'
+      
           
 
 

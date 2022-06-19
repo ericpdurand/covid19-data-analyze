@@ -5,7 +5,7 @@ on:
     - cron: '0 1 * * *'
   push:
     paths:
-      - 'data.countries.txt'
+      - 'data/countries.txt'
       
   workflow_dispatch:
 

@@ -23,7 +23,7 @@ jobs:
         run: |
           echo "Countries:" ${{ inputs.countries }}
           cd src
-          python handleCountries.py ${{ inputs.countries }}
+          python handleCountries.py "${{ inputs.countries }}"
             
       - uses: EndBug/add-and-commit@v9 
         with:

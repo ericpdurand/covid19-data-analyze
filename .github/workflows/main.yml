@@ -8,7 +8,7 @@ on:
 
 jobs:
   
-  getMissingCpuntries:
+  getMissingCountries:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,7 +22,7 @@ jobs:
           
       - name: Analyze Data
         run: |
-          src/getMissingCountries.py
+          python src/getMissingCountries.py
 
       - uses: EndBug/add-and-commit@v9 
         with:

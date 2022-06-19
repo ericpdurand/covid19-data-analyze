@@ -29,3 +29,24 @@ jobs:
         with:
           add: 'docs'
                 
+  getLatestDataForCountries:
+    runs-on: ubuntu-latest
+
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: Get Data
+        run: |
+          cd data
+          curl -O https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+          curl -O https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/jhu/total_cases.csv
+      
+      - name: Analyze Data
+        run: |
+          cd src
+          python getLatestDataForCountries.py
+          
+      - uses: EndBug/add-and-commit@v9 
+        with:
+          add: 'docs'

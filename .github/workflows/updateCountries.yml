@@ -1,0 +1,27 @@
+name: updateCountriesAndRun
+
+on:
+  
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: "List of Countries"
+        required: true
+        type: string
+      
+jobs:
+
+  getCountries:
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+      
+      - uses: actions/checkout@v3
+
+      - name: Handle input
+        run: |
+          echo "Countries:" ${{ inputs.countries }}
+          
+
+

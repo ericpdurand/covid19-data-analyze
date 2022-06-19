@@ -1,4 +1,4 @@
-name: updateCountriesAndRun
+name: updateCountries
 
 on:
   

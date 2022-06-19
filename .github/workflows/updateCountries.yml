@@ -22,7 +22,6 @@ jobs:
       - name: Handle input
         run: |
           echo "Countries:" ${{ inputs.countries }}
-          rm data/countries.txt
           cd src
           python handleCountries.py ${{ inputs.countries }}
             

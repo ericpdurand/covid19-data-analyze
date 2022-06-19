@@ -3,7 +3,10 @@ name: runGenerateReports
 on:
   schedule:
     - cron: '0 1 * * *'
-
+  push:
+    paths:
+      - 'data.countries.txt'
+      
   workflow_dispatch:
 
 jobs:

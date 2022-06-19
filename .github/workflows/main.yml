@@ -46,6 +46,7 @@ jobs:
           cd data
           curl -O https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
           curl -O https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/jhu/total_cases.csv
+          curl -O https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/jhu/new_cases.csv
       
       - name: Analyze Data
         run: |

@@ -6,7 +6,7 @@ import sys
 # This file contains one line per day, each column after the date being a country's new cases for that date. 
 # This file is orderd by date, last date last.
 newCasesFile = "../data/new_cases.csv"
-resultFile = "../report/CountriesMissingData.txt"
+resultFile = "../docs/CountriesMissingData.txt"
 nbCountries = 10
 
 # readData reads a new cases file into a list of dicts, one per line

@@ -11,7 +11,7 @@ totalCasesFile = "../data/total_cases.csv"
 # this file contains 1 line per date with country data in columns
 newCasesFile = "../data/new_cases.csv"
 countriesFile = "../data/countries.txt"
-resultFile = "../report/CasesAndVaccinationsPerCountry.txt"
+resultFile = "../docs/CasesAndVaccinationsPerCountry.txt"
 
 # Result is meant to store the data we want to capture, for each country
 class Result:

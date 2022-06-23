@@ -1,10 +1,10 @@
-Seychelles: 2022-06-17
-Paraguay: 2022-06-17
-Honduras: 2022-06-17
-Ecuador: 2022-06-17
-Cyprus: 2022-06-17
-Cayman Islands: 2022-06-17
-Aruba: 2022-06-17
-Nigeria: 2022-06-18
-Madagascar: 2022-06-19
-Argentina: 2022-06-19
+Oman: 2022-06-20
+Maldives: 2022-06-20
+Lesotho: 2022-06-20
+Kuwait: 2022-06-20
+Jordan: 2022-06-20
+Guatemala: 2022-06-20
+Ghana: 2022-06-20
+Democratic Republic of Congo: 2022-06-20
+Bolivia: 2022-06-20
+Belgium: 2022-06-20

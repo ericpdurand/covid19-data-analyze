@@ -1,10 +1,10 @@
-Ecuador: 2022-06-25
-Cayman Islands: 2022-06-25
-Aruba: 2022-06-25
-Madagascar: 2022-06-26
-Lebanon: 2022-06-26
-Dominican Republic: 2022-06-26
-Cape Verde: 2022-06-26
-Bolivia: 2022-06-26
-Argentina: 2022-06-26
-Albania: 2022-06-26
+Thailand: 2022-06-27
+Romania: 2022-06-27
+Palestine: 2022-06-27
+Maldives: 2022-06-27
+Kuwait: 2022-06-27
+Jordan: 2022-06-27
+Honduras: 2022-06-27
+Ghana: 2022-06-27
+Belgium: 2022-06-27
+Armenia: 2022-06-27

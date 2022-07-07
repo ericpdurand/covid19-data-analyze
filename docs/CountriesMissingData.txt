@@ -1,10 +1,10 @@
-Nigeria: 2022-07-02
-Zambia: 2022-07-03
-South Africa: 2022-07-03
-Paraguay: 2022-07-03
-Panama: 2022-07-03
-Madagascar: 2022-07-03
-Kazakhstan: 2022-07-03
-Jordan: 2022-07-03
-Argentina: 2022-07-03
-Albania: 2022-07-03
+Mongolia: 2022-07-04
+Maldives: 2022-07-04
+Ghana: 2022-07-04
+French Polynesia: 2022-07-04
+Fiji: 2022-07-04
+Cape Verde: 2022-07-04
+Bolivia: 2022-07-04
+Belgium: 2022-07-04
+Aruba: 2022-07-04
+Armenia: 2022-07-04

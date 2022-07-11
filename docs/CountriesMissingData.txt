@@ -1,10 +1,10 @@
-Gibraltar: 2022-07-07
-Ghana: 2022-07-07
-Finland: 2022-07-07
-Fiji: 2022-07-07
-Congo: 2022-07-07
-Colombia: 2022-07-07
-Botswana: 2022-07-07
-Bolivia: 2022-07-07
-Belize: 2022-07-07
-Belgium: 2022-07-07
+El Salvador: 2022-07-08
+Ecuador: 2022-07-08
+Dominican Republic: 2022-07-08
+Denmark: 2022-07-08
+Czechia: 2022-07-08
+Cyprus: 2022-07-08
+Brunei: 2022-07-08
+Bosnia and Herzegovina: 2022-07-08
+Austria: 2022-07-08
+Aruba: 2022-07-08

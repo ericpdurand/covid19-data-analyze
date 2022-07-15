@@ -1,10 +1,10 @@
-Mauritius: 2022-07-11
-Maldives: 2022-07-11
-Lesotho: 2022-07-11
-Fiji: 2022-07-11
-Democratic Republic of Congo: 2022-07-11
-Czechia: 2022-07-11
-Bolivia: 2022-07-11
-Bhutan: 2022-07-11
-Belgium: 2022-07-11
-Armenia: 2022-07-11
+Lebanon: 2022-07-12
+Jordan: 2022-07-12
+Iceland: 2022-07-12
+Honduras: 2022-07-12
+Ghana: 2022-07-12
+French Polynesia: 2022-07-12
+Estonia: 2022-07-12
+Curacao: 2022-07-12
+Cayman Islands: 2022-07-12
+Belize: 2022-07-12

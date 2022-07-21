@@ -1,10 +1,10 @@
-Congo: 2022-07-15
-Cayman Islands: 2022-07-15
-Aruba: 2022-07-15
-Albania: 2022-07-15
-South Africa: 2022-07-16
-Mexico: 2022-07-17
-Madagascar: 2022-07-17
-Kazakhstan: 2022-07-17
-Bolivia: 2022-07-17
-Argentina: 2022-07-17
+Jordan: 2022-07-18
+Honduras: 2022-07-18
+Fiji: 2022-07-18
+Estonia: 2022-07-18
+Curacao: 2022-07-18
+Bhutan: 2022-07-18
+Belgium: 2022-07-18
+Armenia: 2022-07-18
+Angola: 2022-07-18
+Andorra: 2022-07-18

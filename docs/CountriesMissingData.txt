@@ -1,10 +1,10 @@
-Jordan: 2022-07-18
-Honduras: 2022-07-18
-Fiji: 2022-07-18
-Estonia: 2022-07-18
-Curacao: 2022-07-18
-Bhutan: 2022-07-18
-Belgium: 2022-07-18
-Armenia: 2022-07-18
-Angola: 2022-07-18
-Andorra: 2022-07-18
+Thailand: 2022-07-19
+Switzerland: 2022-07-19
+Spain: 2022-07-19
+Palestine: 2022-07-19
+Nigeria: 2022-07-19
+Kazakhstan: 2022-07-19
+Iceland: 2022-07-19
+Greece: 2022-07-19
+Democratic Republic of Congo: 2022-07-19
+Burundi: 2022-07-19

@@ -1,10 +1,10 @@
-Thailand: 2022-07-19
-Switzerland: 2022-07-19
-Spain: 2022-07-19
-Palestine: 2022-07-19
-Nigeria: 2022-07-19
-Kazakhstan: 2022-07-19
-Iceland: 2022-07-19
-Greece: 2022-07-19
-Democratic Republic of Congo: 2022-07-19
-Burundi: 2022-07-19
+Isle of Man: 2022-07-20
+Ireland: 2022-07-20
+Hungary: 2022-07-20
+Honduras: 2022-07-20
+French Polynesia: 2022-07-20
+Dominican Republic: 2022-07-20
+Costa Rica: 2022-07-20
+Bonaire Sint Eustatius and Saba: 2022-07-20
+Bermuda: 2022-07-20
+Belgium: 2022-07-20

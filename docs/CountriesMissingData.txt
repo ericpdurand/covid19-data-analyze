@@ -1,10 +1,10 @@
-Paraguay: 2022-07-23
-Nigeria: 2022-07-23
-Kuwait: 2022-07-23
-Gabon: 2022-07-23
-Costa Rica: 2022-07-23
-Thailand: 2022-07-24
-New Zealand: 2022-07-24
-Madagascar: 2022-07-24
-Kazakhstan: 2022-07-24
-Argentina: 2022-07-24
+Jordan: 2022-07-25
+Fiji: 2022-07-25
+Ecuador: 2022-07-25
+Dominican Republic: 2022-07-25
+Curacao: 2022-07-25
+Burundi: 2022-07-25
+Bhutan: 2022-07-25
+Belgium: 2022-07-25
+Aruba: 2022-07-25
+Armenia: 2022-07-25

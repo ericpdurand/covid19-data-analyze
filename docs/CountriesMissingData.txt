@@ -1,10 +1,10 @@
-French Polynesia: 2022-07-29
-Cyprus: 2022-07-29
-Congo: 2022-07-29
-Burundi: 2022-07-29
-Brunei: 2022-07-29
-Belize: 2022-07-29
-Austria: 2022-07-29
-Saint Lucia: 2022-07-30
-Bolivia: 2022-07-31
-Argentina: 2022-07-31
+Venezuela: 2022-08-01
+Uruguay: 2022-08-01
+Panama: 2022-08-01
+Maldives: 2022-08-01
+Jordan: 2022-08-01
+Ghana: 2022-08-01
+Fiji: 2022-08-01
+Dominican Republic: 2022-08-01
+Bhutan: 2022-08-01
+Belgium: 2022-08-01

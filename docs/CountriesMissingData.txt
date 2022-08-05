@@ -1,10 +1,10 @@
-Venezuela: 2022-08-01
-Uruguay: 2022-08-01
-Panama: 2022-08-01
-Maldives: 2022-08-01
-Jordan: 2022-08-01
-Ghana: 2022-08-01
-Fiji: 2022-08-01
-Dominican Republic: 2022-08-01
-Bhutan: 2022-08-01
-Belgium: 2022-08-01
+Nigeria: 2022-08-02
+Kyrgyzstan: 2022-08-02
+Iceland: 2022-08-02
+Honduras: 2022-08-02
+Greece: 2022-08-02
+Estonia: 2022-08-02
+Costa Rica: 2022-08-02
+Cayman Islands: 2022-08-02
+Bolivia: 2022-08-02
+Armenia: 2022-08-02

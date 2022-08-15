@@ -1,10 +1,10 @@
-Sweden: 2022-08-11
-Nigeria: 2022-08-11
-Mongolia: 2022-08-11
-Georgia: 2022-08-11
-Finland: 2022-08-11
-Colombia: 2022-08-11
-Botswana: 2022-08-11
-Bolivia: 2022-08-11
-Belize: 2022-08-11
-Belgium: 2022-08-11
+French Polynesia: 2022-08-12
+France: 2022-08-12
+Denmark: 2022-08-12
+Cyprus: 2022-08-12
+Canada: 2022-08-12
+Cameroon: 2022-08-12
+Burundi: 2022-08-12
+Brazil: 2022-08-12
+Bosnia and Herzegovina: 2022-08-12
+Austria: 2022-08-12

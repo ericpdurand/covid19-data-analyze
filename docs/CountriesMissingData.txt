@@ -1,5 +1,3 @@
-French Polynesia: 2022-08-12
-France: 2022-08-12
 Denmark: 2022-08-12
 Cyprus: 2022-08-12
 Canada: 2022-08-12
@@ -8,3 +6,5 @@ Burundi: 2022-08-12
 Brazil: 2022-08-12
 Bosnia and Herzegovina: 2022-08-12
 Austria: 2022-08-12
+Nigeria: 2022-08-13
+Haiti: 2022-08-13

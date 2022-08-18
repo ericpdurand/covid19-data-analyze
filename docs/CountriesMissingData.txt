@@ -1,10 +1,10 @@
-Cameroon: 2022-08-12
-Burundi: 2022-08-12
-Nigeria: 2022-08-13
-Haiti: 2022-08-13
-Germany: 2022-08-13
-Venezuela: 2022-08-14
-Singapore: 2022-08-14
-Kuwait: 2022-08-14
-Dominican Republic: 2022-08-14
-Argentina: 2022-08-14
+Serbia: 2022-08-15
+Mongolia: 2022-08-15
+Mauritius: 2022-08-15
+Kyrgyzstan: 2022-08-15
+Jordan: 2022-08-15
+Iraq: 2022-08-15
+Ghana: 2022-08-15
+Bhutan: 2022-08-15
+Belize: 2022-08-15
+Armenia: 2022-08-15

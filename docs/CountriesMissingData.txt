@@ -1,10 +1,10 @@
-Bermuda: 2022-08-17
-Sweden: 2022-08-18
-Peru: 2022-08-18
-Pakistan: 2022-08-18
-Mongolia: 2022-08-18
-Grenada: 2022-08-18
-Georgia: 2022-08-18
-Finland: 2022-08-18
-Colombia: 2022-08-18
-Belgium: 2022-08-18
+Honduras: 2022-08-19
+Germany: 2022-08-19
+France: 2022-08-19
+Ecuador: 2022-08-19
+Denmark: 2022-08-19
+Cyprus: 2022-08-19
+Burundi: 2022-08-19
+Brazil: 2022-08-19
+Bosnia and Herzegovina: 2022-08-19
+Austria: 2022-08-19

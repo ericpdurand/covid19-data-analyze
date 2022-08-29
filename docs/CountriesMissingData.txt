@@ -1,10 +1,10 @@
-Nigeria: 2022-08-25
-Mexico: 2022-08-25
-Honduras: 2022-08-25
-Haiti: 2022-08-25
-Georgia: 2022-08-25
-Finland: 2022-08-25
-Dominican Republic: 2022-08-25
-Colombia: 2022-08-25
-Belgium: 2022-08-25
-Afghanistan: 2022-08-25
+Israel: 2022-08-26
+Ghana: 2022-08-26
+France: 2022-08-26
+Ecuador: 2022-08-26
+Denmark: 2022-08-26
+Cyprus: 2022-08-26
+Cameroon: 2022-08-26
+Brazil: 2022-08-26
+Bosnia and Herzegovina: 2022-08-26
+Austria: 2022-08-26

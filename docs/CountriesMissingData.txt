@@ -1,10 +1,10 @@
-Israel: 2022-08-26
-Ghana: 2022-08-26
-France: 2022-08-26
-Ecuador: 2022-08-26
 Denmark: 2022-08-26
 Cyprus: 2022-08-26
 Cameroon: 2022-08-26
 Brazil: 2022-08-26
 Bosnia and Herzegovina: 2022-08-26
 Austria: 2022-08-26
+Pakistan: 2022-08-27
+Lithuania: 2022-08-27
+Kazakhstan: 2022-08-27
+Haiti: 2022-08-27

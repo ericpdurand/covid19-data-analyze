@@ -1,10 +1,10 @@
-Denmark: 2022-08-26
+Paraguay: 2022-08-26
+Luxembourg: 2022-08-26
 Cyprus: 2022-08-26
 Cameroon: 2022-08-26
-Brazil: 2022-08-26
-Bosnia and Herzegovina: 2022-08-26
 Austria: 2022-08-26
-Pakistan: 2022-08-27
-Lithuania: 2022-08-27
-Kazakhstan: 2022-08-27
-Haiti: 2022-08-27
+Mexico: 2022-08-28
+Jordan: 2022-08-28
+India: 2022-08-28
+Bolivia: 2022-08-28
+Argentina: 2022-08-28

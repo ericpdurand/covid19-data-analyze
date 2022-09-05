@@ -1,10 +1,10 @@
-Bermuda: 2022-08-31
-Sweden: 2022-09-01
-Nigeria: 2022-09-01
-Mongolia: 2022-09-01
-Micronesia (country): 2022-09-01
-Lebanon: 2022-09-01
-Finland: 2022-09-01
-Colombia: 2022-09-01
-Belgium: 2022-09-01
-Afghanistan: 2022-09-01
+Guinea-Bissau: 2022-09-02
+Germany: 2022-09-02
+France: 2022-09-02
+Ecuador: 2022-09-02
+Denmark: 2022-09-02
+Cyprus: 2022-09-02
+Cook Islands: 2022-09-02
+Brazil: 2022-09-02
+Bosnia and Herzegovina: 2022-09-02
+Austria: 2022-09-02

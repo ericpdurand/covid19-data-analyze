@@ -1,10 +1,10 @@
-France: 2022-09-09
+Honduras: 2022-09-09
 Ecuador: 2022-09-09
-Denmark: 2022-09-09
-Brazil: 2022-09-09
-Bosnia and Herzegovina: 2022-09-09
 Angola: 2022-09-09
 Dominican Republic: 2022-09-10
-Czechia: 2022-09-10
 Cyprus: 2022-09-10
-Canada: 2022-09-10
+Nigeria: 2022-09-11
+Mexico: 2022-09-11
+Bulgaria: 2022-09-11
+Bolivia: 2022-09-11
+Argentina: 2022-09-11

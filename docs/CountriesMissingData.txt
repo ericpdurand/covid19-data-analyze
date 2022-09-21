@@ -1,10 +1,10 @@
-Latvia: 2022-09-16
-Honduras: 2022-09-16
-France: 2022-09-16
-Denmark: 2022-09-16
 Cyprus: 2022-09-16
 Bosnia and Herzegovina: 2022-09-16
-South Africa: 2022-09-17
 Nigeria: 2022-09-17
 Mexico: 2022-09-17
-Lebanon: 2022-09-17
+Peru: 2022-09-18
+Pakistan: 2022-09-18
+Kazakhstan: 2022-09-18
+Jordan: 2022-09-18
+Dominican Republic: 2022-09-18
+Argentina: 2022-09-18

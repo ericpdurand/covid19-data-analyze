@@ -1,10 +1,10 @@
-Jordan: 2022-09-18
-Argentina: 2022-09-18
-Uruguay: 2022-09-19
-South Africa: 2022-09-19
-Panama: 2022-09-19
-Ghana: 2022-09-19
-Czechia: 2022-09-19
-Brazil: 2022-09-19
-Bhutan: 2022-09-19
-Armenia: 2022-09-19
+Iceland: 2022-09-20
+Honduras: 2022-09-20
+Greece: 2022-09-20
+Estonia: 2022-09-20
+Ecuador: 2022-09-20
+Dominican Republic: 2022-09-20
+Costa Rica: 2022-09-20
+Brunei: 2022-09-20
+Bolivia: 2022-09-20
+Belgium: 2022-09-20

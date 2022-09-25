@@ -1,10 +1,10 @@
-Ecuador: 2022-09-20
-Dominican Republic: 2022-09-20
-Costa Rica: 2022-09-20
-Brunei: 2022-09-20
-Trinidad and Tobago: 2022-09-21
-Mongolia: 2022-09-21
-Mexico: 2022-09-21
-Kuwait: 2022-09-21
 Ireland: 2022-09-21
 Hungary: 2022-09-21
+United Kingdom: 2022-09-22
+Sweden: 2022-09-22
+Israel: 2022-09-22
+Georgia: 2022-09-22
+Finland: 2022-09-22
+Colombia: 2022-09-22
+Bolivia: 2022-09-22
+Belgium: 2022-09-22

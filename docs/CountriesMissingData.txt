@@ -1,10 +1,10 @@
-France: 2022-09-23
-Denmark: 2022-09-23
+Finland: 2022-09-22
+Colombia: 2022-09-22
+Spain: 2022-09-23
 Cyprus: 2022-09-23
-Brazil: 2022-09-23
-Bosnia and Herzegovina: 2022-09-23
 Turkey: 2022-09-24
-Qatar: 2022-09-24
-Mexico: 2022-09-24
-Lebanon: 2022-09-24
-Czechia: 2022-09-24
+Saint Lucia: 2022-09-25
+Rwanda: 2022-09-25
+Jordan: 2022-09-25
+Israel: 2022-09-25
+Argentina: 2022-09-25

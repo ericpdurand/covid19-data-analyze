@@ -1,10 +1,10 @@
-Netherlands: 2022-10-07
-Micronesia (country): 2022-10-07
-Lebanon: 2022-10-07
-Finland: 2022-10-07
-Cyprus: 2022-10-07
-New Zealand: 2022-10-09
-Mexico: 2022-10-09
-Kuwait: 2022-10-09
-Israel: 2022-10-09
 Argentina: 2022-10-09
+Turkey: 2022-10-10
+Thailand: 2022-10-10
+Panama: 2022-10-10
+Mauritius: 2022-10-10
+Iraq: 2022-10-10
+India: 2022-10-10
+Bhutan: 2022-10-10
+Belgium: 2022-10-10
+Armenia: 2022-10-10

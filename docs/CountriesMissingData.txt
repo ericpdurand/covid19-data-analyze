@@ -1,10 +1,10 @@
-Argentina: 2022-10-09
-Turkey: 2022-10-10
-Thailand: 2022-10-10
-Panama: 2022-10-10
-Mauritius: 2022-10-10
-Iraq: 2022-10-10
-India: 2022-10-10
-Bhutan: 2022-10-10
-Belgium: 2022-10-10
-Armenia: 2022-10-10
+Switzerland: 2022-10-11
+Saint Helena: 2022-10-11
+Netherlands: 2022-10-11
+Micronesia (country): 2022-10-11
+Iceland: 2022-10-11
+Greece: 2022-10-11
+Ghana: 2022-10-11
+Estonia: 2022-10-11
+Brunei: 2022-10-11
+Brazil: 2022-10-11

@@ -1,10 +1,10 @@
-Portugal: 2022-10-14
-Paraguay: 2022-10-14
-Netherlands: 2022-10-14
-Micronesia (country): 2022-10-14
 Luxembourg: 2022-10-14
 Latvia: 2022-10-14
 France: 2022-10-14
 Denmark: 2022-10-14
 Cyprus: 2022-10-14
 Brazil: 2022-10-14
+South Africa: 2022-10-15
+Peru: 2022-10-15
+Nigeria: 2022-10-15
+Mexico: 2022-10-15

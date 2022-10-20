@@ -1,10 +1,10 @@
-Micronesia (country): 2022-10-14
-Cyprus: 2022-10-14
-Brazil: 2022-10-14
-Thailand: 2022-10-15
-Nigeria: 2022-10-15
-New Zealand: 2022-10-16
-Ghana: 2022-10-16
-Dominican Republic: 2022-10-16
-Barbados: 2022-10-16
-Argentina: 2022-10-16
+Uruguay: 2022-10-17
+Peru: 2022-10-17
+Namibia: 2022-10-17
+Mexico: 2022-10-17
+Mauritius: 2022-10-17
+Kuwait: 2022-10-17
+Honduras: 2022-10-17
+Central African Republic: 2022-10-17
+Belgium: 2022-10-17
+Armenia: 2022-10-17

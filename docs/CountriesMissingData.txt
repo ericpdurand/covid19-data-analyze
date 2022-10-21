@@ -1,10 +1,10 @@
-Uruguay: 2022-10-17
-Peru: 2022-10-17
-Namibia: 2022-10-17
-Mexico: 2022-10-17
-Mauritius: 2022-10-17
-Kuwait: 2022-10-17
-Honduras: 2022-10-17
-Central African Republic: 2022-10-17
-Belgium: 2022-10-17
-Armenia: 2022-10-17
+Tunisia: 2022-10-18
+Panama: 2022-10-18
+Netherlands: 2022-10-18
+Kazakhstan: 2022-10-18
+Iceland: 2022-10-18
+Greece: 2022-10-18
+Estonia: 2022-10-18
+Costa Rica: 2022-10-18
+Brunei: 2022-10-18
+Aruba: 2022-10-18

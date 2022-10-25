@@ -1,5 +1,3 @@
-Netherlands: 2022-10-21
-Mexico: 2022-10-21
 Luxembourg: 2022-10-21
 Latvia: 2022-10-21
 France: 2022-10-21
@@ -8,3 +6,5 @@ Denmark: 2022-10-21
 Cyprus: 2022-10-21
 Brazil: 2022-10-21
 Austria: 2022-10-21
+Nigeria: 2022-10-22
+Czechia: 2022-10-22

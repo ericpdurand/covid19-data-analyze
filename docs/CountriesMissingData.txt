@@ -1,10 +1,10 @@
-Luxembourg: 2022-10-21
-Latvia: 2022-10-21
-France: 2022-10-21
+Paraguay: 2022-10-21
 Ecuador: 2022-10-21
-Denmark: 2022-10-21
 Cyprus: 2022-10-21
-Brazil: 2022-10-21
-Austria: 2022-10-21
 Nigeria: 2022-10-22
-Czechia: 2022-10-22
+Thailand: 2022-10-23
+Mexico: 2022-10-23
+Kuwait: 2022-10-23
+Honduras: 2022-10-23
+Ghana: 2022-10-23
+Argentina: 2022-10-23

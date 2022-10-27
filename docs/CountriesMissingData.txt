@@ -1,10 +1,10 @@
-Paraguay: 2022-10-21
-Ecuador: 2022-10-21
-Cyprus: 2022-10-21
-Nigeria: 2022-10-22
-Thailand: 2022-10-23
-Mexico: 2022-10-23
-Kuwait: 2022-10-23
-Honduras: 2022-10-23
-Ghana: 2022-10-23
-Argentina: 2022-10-23
+Palestine: 2022-10-24
+New Zealand: 2022-10-24
+Mauritius: 2022-10-24
+Iraq: 2022-10-24
+Gabon: 2022-10-24
+Czechia: 2022-10-24
+Comoros: 2022-10-24
+Cameroon: 2022-10-24
+Belgium: 2022-10-24
+Armenia: 2022-10-24

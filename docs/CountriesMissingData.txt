@@ -3,8 +3,8 @@ Netherlands: 2022-10-28
 Luxembourg: 2022-10-28
 Latvia: 2022-10-28
 Ghana: 2022-10-28
-Germany: 2022-10-28
 France: 2022-10-28
 Denmark: 2022-10-28
-Czechia: 2022-10-28
 Cyprus: 2022-10-28
+Kuwait: 2022-10-29
+Italy: 2022-10-29

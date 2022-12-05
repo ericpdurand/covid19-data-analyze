@@ -1,10 +1,10 @@
-Venezuela: 2022-12-01
-United Kingdom: 2022-12-01
-Sweden: 2022-12-01
-Saint Helena: 2022-12-01
-North Macedonia: 2022-12-01
-Mexico: 2022-12-01
-Kazakhstan: 2022-12-01
-Georgia: 2022-12-01
-French Polynesia: 2022-12-01
-Finland: 2022-12-01
+Latvia: 2022-12-02
+Italy: 2022-12-02
+Honduras: 2022-12-02
+Germany: 2022-12-02
+France: 2022-12-02
+Denmark: 2022-12-02
+Cyprus: 2022-12-02
+Costa Rica: 2022-12-02
+Colombia: 2022-12-02
+Brazil: 2022-12-02

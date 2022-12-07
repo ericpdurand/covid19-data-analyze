@@ -1,10 +1,10 @@
-France: 2022-12-02
-Denmark: 2022-12-02
-Cyprus: 2022-12-02
-Costa Rica: 2022-12-02
 Colombia: 2022-12-02
-Brazil: 2022-12-02
-Venezuela: 2022-12-03
 Paraguay: 2022-12-03
 Dominican Republic: 2022-12-03
 Austria: 2022-12-03
+Thailand: 2022-12-04
+Peru: 2022-12-04
+Madagascar: 2022-12-04
+Eswatini: 2022-12-04
+Bolivia: 2022-12-04
+Argentina: 2022-12-04

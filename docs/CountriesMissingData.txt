@@ -1,10 +1,10 @@
-Macao: 2022-12-13
-Greece: 2022-12-13
-Ethiopia: 2022-12-13
-Estonia: 2022-12-13
-Ecuador: 2022-12-13
-Costa Rica: 2022-12-13
-China: 2022-12-13
-Brunei: 2022-12-13
-Bolivia: 2022-12-13
-Barbados: 2022-12-13
+Portugal: 2022-12-14
+New Caledonia: 2022-12-14
+Mauritius: 2022-12-14
+Ireland: 2022-12-14
+Hungary: 2022-12-14
+Georgia: 2022-12-14
+Dominican Republic: 2022-12-14
+Burundi: 2022-12-14
+Angola: 2022-12-14
+Andorra: 2022-12-14

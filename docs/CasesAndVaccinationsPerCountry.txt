@@ -1,5 +1,5 @@
-Ukraine: totalcases:5672948.0, newcases:36.0, totalvaccinations:31668577, newvaccinations:24457
-Poland: totalcases:6374257.0, newcases:377.0, totalvaccinations:57846063, newvaccinations:3200
-Denmark: totalcases:3397700.0, newcases:205.0, totalvaccinations:13162151, newvaccinations:81
+Ukraine: totalcases:5672999.0, newcases:51.0, totalvaccinations:31668577, newvaccinations:24457
+Poland: totalcases:6374645.0, newcases:388.0, totalvaccinations:57849406, newvaccinations:3076
+Denmark: totalcases:3397927.0, newcases:227.0, totalvaccinations:13161596, newvaccinations:79
 Switzerland: totalcases:4406243.0, newcases:0, totalvaccinations:16899172, newvaccinations:1694
-United States: totalcases:101869827.0, newcases:127694.0, totalvaccinations:666511603, newvaccinations:131718
+United States: totalcases:101958808.0, newcases:88981.0, totalvaccinations:666511603, newvaccinations:131718

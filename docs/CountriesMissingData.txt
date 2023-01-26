@@ -1,10 +1,10 @@
-Spain: 2023-01-20
-Paraguay: 2023-01-20
-Netherlands: 2023-01-20
-Italy: 2023-01-20
-Honduras: 2023-01-20
-Cyprus: 2023-01-20
 Australia: 2023-01-20
-Zambia: 2023-01-21
 Micronesia (country): 2023-01-21
-Bolivia: 2023-01-21
+Uruguay: 2023-01-23
+Thailand: 2023-01-23
+Serbia: 2023-01-23
+Romania: 2023-01-23
+Peru: 2023-01-23
+Panama: 2023-01-23
+Mauritius: 2023-01-23
+Argentina: 2023-01-23

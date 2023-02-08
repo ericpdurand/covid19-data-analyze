@@ -1,10 +1,10 @@
-France: 2023-02-03
+Belgium: 2023-02-02
+Australia: 2023-02-02
+Spain: 2023-02-03
+Paraguay: 2023-02-03
+Netherlands: 2023-02-03
+Italy: 2023-02-03
 Ecuador: 2023-02-03
-Denmark: 2023-02-03
 Cyprus: 2023-02-03
-Canada: 2023-02-03
 Afghanistan: 2023-02-03
-Zambia: 2023-02-04
-Lebanon: 2023-02-04
-Brazil: 2023-02-04
-Bolivia: 2023-02-04
+Thailand: 2023-02-05

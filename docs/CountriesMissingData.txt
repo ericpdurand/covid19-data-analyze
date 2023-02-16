@@ -1,10 +1,10 @@
-Netherlands: 2023-02-10
-Micronesia (country): 2023-02-10
-Italy: 2023-02-10
-Cyprus: 2023-02-10
-Australia: 2023-02-10
-Trinidad and Tobago: 2023-02-11
-Paraguay: 2023-02-11
-Thailand: 2023-02-12
-Singapore: 2023-02-12
-Peru: 2023-02-12
+Romania: 2023-02-13
+Philippines: 2023-02-13
+Panama: 2023-02-13
+Namibia: 2023-02-13
+Mauritius: 2023-02-13
+Lebanon: 2023-02-13
+Kazakhstan: 2023-02-13
+Brazil: 2023-02-13
+Botswana: 2023-02-13
+Argentina: 2023-02-13

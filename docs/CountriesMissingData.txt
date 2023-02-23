@@ -1,10 +1,10 @@
-Netherlands: 2023-02-17
-Italy: 2023-02-17
-Cyprus: 2023-02-17
-Belgium: 2023-02-17
-Australia: 2023-02-17
-Brazil: 2023-02-18
 Thailand: 2023-02-19
 Samoa: 2023-02-19
-Mexico: 2023-02-19
-Israel: 2023-02-19
+Uruguay: 2023-02-20
+South Africa: 2023-02-20
+Romania: 2023-02-20
+Nauru: 2023-02-20
+Mozambique: 2023-02-20
+Lebanon: 2023-02-20
+Cameroon: 2023-02-20
+Argentina: 2023-02-20

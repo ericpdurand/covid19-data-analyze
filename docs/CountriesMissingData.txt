@@ -1,10 +1,10 @@
-Costa Rica: 2023-02-22
-Brunei: 2023-02-22
-Armenia: 2023-02-22
-United Kingdom: 2023-02-23
-Sweden: 2023-02-23
-Panama: 2023-02-23
-North Macedonia: 2023-02-23
-Mexico: 2023-02-23
-Finland: 2023-02-23
-Belgium: 2023-02-23
+Paraguay: 2023-02-24
+Netherlands: 2023-02-24
+Italy: 2023-02-24
+Germany: 2023-02-24
+France: 2023-02-24
+Denmark: 2023-02-24
+Cyprus: 2023-02-24
+Colombia: 2023-02-24
+Brazil: 2023-02-24
+Australia: 2023-02-24

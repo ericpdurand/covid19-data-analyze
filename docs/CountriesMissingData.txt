@@ -1,6 +1,3 @@
-Paraguay: 2023-02-24
-Netherlands: 2023-02-24
-Italy: 2023-02-24
 Germany: 2023-02-24
 France: 2023-02-24
 Denmark: 2023-02-24
@@ -8,3 +5,6 @@ Cyprus: 2023-02-24
 Colombia: 2023-02-24
 Brazil: 2023-02-24
 Australia: 2023-02-24
+Peru: 2023-02-25
+Montenegro: 2023-02-25
+Bahrain: 2023-02-25
